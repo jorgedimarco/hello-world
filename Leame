@@ -1,4 +1,4 @@
 Este archivo contiene los parámetros de configuración
 FILES=30
 BUEFFERS=40
-DRIVE=A:
+DRIVE=B:
